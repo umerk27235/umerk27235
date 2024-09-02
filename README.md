@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on Automation & Front End Development
+Automation Engineer at Circadia Health | Front-End | JS | React | Cypress | Playwright
 
 
 ## 🌐 Socials:
