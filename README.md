@@ -1,5 +1,5 @@
 # Hi 👋, I'm Umer Khan
-Automation Engineer at Circadia Health | Front-End | JS | React | Cypress | Playwright
+Front End Engineer at Circadia Health | Front-End | JS | React | Cypress | Playwright
 
 
 ## 🌐 Socials:
