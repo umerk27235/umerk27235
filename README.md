@@ -1,5 +1,5 @@
 # Hi 👋, I'm Umer Khan
-Front End Engineer | JS | React | Cypress | Playwright
+Software Engineer | JS | React | NodeJs | Cypress | Playwright
 
 
 # 💻 Tech Stack:
